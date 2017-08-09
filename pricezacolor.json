@@ -1,27 +1,27 @@
 {
   "colors": [
         {
-            "red": 26,
-            "green": 173,
-            "blue": 25,
+            "red": 255,
+            "green": 164,
+            "blue": 0,
             "alpha": 1
         },
         {
-            "red": 39,
-            "green": 130,
-            "blue": 215,
+            "red": 246,
+            "green": 190,
+            "blue": 0,
             "alpha": 1
         },
         {
-            "red": 16,
-            "green": 174,
-            "blue": 255,
+            "red": 255,
+            "green": 143,
+            "blue": 28,
             "alpha": 1
         },
         {
-            "red": 87,
-            "green": 107,
-            "blue": 149,
+            "red": 255,
+            "green": 105,
+            "blue": 0,
             "alpha": 1
         },
         {
